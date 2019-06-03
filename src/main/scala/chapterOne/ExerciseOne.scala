@@ -1,7 +1,0 @@
-package chapterOne
-
-
-
-class ExerciseOne {
-
-}
